@@ -1,3 +1,0 @@
-2025-07-12 13:08:09,978 - data_ingestion - ERROR - File not found: params.yaml
-2025-07-12 13:08:09,979 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
-2025-07-12 13:08:57,736 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'load_params' is not defined
