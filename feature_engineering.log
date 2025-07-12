@@ -1,0 +1,2 @@
+2025-07-12 13:18:44,027 - feature_engineering - ERROR - File not found: params.yaml
+2025-07-12 13:18:44,027 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
